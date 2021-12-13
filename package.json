@@ -1,0 +1,19 @@
+{
+  "name": "mongoToPg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1",
+    "sharedb": "^2.2.1",
+    "sharedb-access": "^5.0.0",
+    "sharedb-postgres": "^3.0.0"
+  }
+}
