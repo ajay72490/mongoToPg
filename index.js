@@ -44,7 +44,7 @@ var addProcess = function (process) {
         })
 }
 
-for (var i = 1; i<processes.length; i++) {
+for (var i = 0; i<processes.length; i++) {
     addProcess(processes[i])
 }
 
